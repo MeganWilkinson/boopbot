@@ -14,4 +14,4 @@ async def on_message(message):
     if message.content.startswith('!hello'):
         await message.channel.send('Hello!')
 
-client.run('NzQ0NzU2MjEzNjYwNjQ3NDc0.Xzn2Rg.wuB8AuiA1eE18s2e_Y2O-Vf7xwo')
+client.run('discord bot token')
